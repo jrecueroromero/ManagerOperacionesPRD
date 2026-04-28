@@ -1,0 +1,14 @@
+{
+    "version": 2,
+    "functions": {
+        "api/**/*.js": {
+            "includeFiles": "usuarios.csv"
+        }
+    },
+    "rewrites": [
+        {
+            "source": "/api/(.*)",
+            "destination": "/api/index.js"
+        }
+    ]
+}

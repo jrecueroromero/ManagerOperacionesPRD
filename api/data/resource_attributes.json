@@ -1,0 +1,125 @@
+{
+  "16": {
+    "assignedTeam": "Recursos Dummys"
+  },
+  "26": {
+    "assignedTeam": "OPE-CO&ING"
+  },
+  "37": {
+    "assignedTeam": "OPE-DES"
+  },
+  "40": {
+    "assignedTeam": "Recursos Dummys"
+  },
+  "41": {
+    "assignedTeam": "Recursos Dummys"
+  },
+  "42": {
+    "assignedTeam": "Recursos Dummys"
+  },
+  "43": {
+    "assignedTeam": "Recursos Dummys"
+  },
+  "44": {
+    "assignedTeam": "Recursos Dummys"
+  },
+  "45": {
+    "assignedTeam": "Recursos Dummys"
+  },
+  "46": {
+    "assignedTeam": "OPE-LOG"
+  },
+  "47": {
+    "assignedTeam": "Recursos Dummys"
+  },
+  "49": {
+    "assignedTeam": "OPE-LOG"
+  },
+  "712020:70d5afca-67ee-4176-9e5e-b36a981db623": {
+    "cv": false,
+    "skill": [
+      "Data Migration"
+    ],
+    "module": [
+      "FI"
+    ]
+  },
+  "61efc8441c4210006945e8fd": {
+    "cv": {
+      "name": "CV Altim_Vicente Bustos.pdf",
+      "date": "2026-02-12T22:57:48.127Z",
+      "url": "/uploads/1770937067697_CV Altim_Vicente Bustos.pdf"
+    },
+    "lob": [
+      "Finance",
+      "Treasury"
+    ],
+    "skill": [
+      "Project Lead",
+      "Business Process",
+      "Project Management Officer",
+      "Configuration",
+      "Analytics",
+      "Data Migration",
+      "Testing",
+      "Education",
+      "Output Management And Forms",
+      "Key User Extensibility"
+    ],
+    "module": [
+      "FI",
+      "CO",
+      "TES"
+    ],
+    "carreraNivelActual": "Responsable de Área",
+    "carreraNivelEsperado": "Responsable de Área"
+  },
+  "712020:67341635-d55e-4f0e-adab-7e5610a7ad54": {
+    "module": []
+  },
+  "6013f1fcb7bda90068af9e97": {
+    "module": [
+      "JP"
+    ],
+    "carreraNivelActual": "Jefe de Proyecto Sr",
+    "carreraNivelEsperado": "Jefe de Proyecto Sr"
+  },
+  "615416ce78e5e4007014de7c": {
+    "module": [
+      "PMO"
+    ],
+    "carreraNivelActual": "Jefe de Proyecto Jr / PMO",
+    "carreraNivelEsperado": "Junior 2"
+  },
+  "61c456a7e7637900685d7f6d": {
+    "module": [
+      "JP"
+    ]
+  },
+  "712020:beda120f-afcf-474f-9ba4-4b1516a096f0": {
+    "module": [
+      "TES",
+      "FI"
+    ]
+  },
+  "603764da2de69b006a1e72be": {
+    "module": [
+      "TES"
+    ]
+  },
+  "712020:247ee18e-e0e7-4f26-a43e-c2bdd8c604f4": {
+    "module": [
+      "FI"
+    ]
+  },
+  "712020:22f27970-b12b-4f98-ab67-1127fbb17093": {
+    "module": [
+      "FI"
+    ]
+  },
+  "712020:ee4e507c-8e49-448f-b8c6-5a50c37a1485": {
+    "module": [
+      "FI"
+    ]
+  }
+}
